@@ -1,0 +1,3 @@
+export const uri: string = 'https://p2p.binance.com/bapi/c2c/v2/friendly/c2c/adv/search';
+export const buy: Object = { "proMerchantAds": false, "page": 1, "rows": 1, "payTypes": [], "countries": [], "publisherType": null, "asset": "USDT", "fiat": "CLP", "tradeType": "BUY" };
+export const sell: Object = { "proMerchantAds": false, "page": 1, "rows": 1, "payTypes": [], "countries": [], "publisherType": null, "asset": "USDT", "fiat": "CLP", "tradeType": "SELL" };
